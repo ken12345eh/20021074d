@@ -1,0 +1,31 @@
+body{
+	background-image: url('wallpaper.jpg')
+}
+	
+img {
+float:right;
+margin:10px;
+}
+
+section {
+	height: 60vh;
+}
+
+h1 {
+	color: darkblue;
+	font-family: Brush Script MT, Brush Script Std, cursive
+}
+
+
+i {
+	color: purple;
+}
+
+p {
+  text-indent: 30px;
+  text-align:justify;
+}
+
+#schoollife p{color: brown;}
+
+#hobby p{color: #884dff;}
